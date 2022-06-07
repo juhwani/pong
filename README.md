@@ -1,2 +1,2 @@
 # pong
-simple pong game 
+simple two player pong game using python :)
